@@ -22,8 +22,8 @@
 - DM\_1\_\*.ipynb 文件对应两个数据集分析处理的Jupyter Notebook文档
 - .ipynb 中访问数据集目录为：
 
-    data/wine-reviews/
+    data/wine reviews/
 
-    data/oakland-crime-statistics-2011-to-2016/
+    data/oakland crime statistics/
 
 	数据集需要手动导入
