@@ -8,9 +8,9 @@
 
 ### 分析过程报告
 
-[Jupyter notebook 项目文件]()
+[Jupyter notebook 项目文件](https://github.com/Reyna-Jin/DataMining/blob/main/assignment2/wine-reviews-analysis.ipynb)
 
-[wine-reviews-analysis.pdf]()
+[wine-reviews-analysis.pdf](https://github.com/Reyna-Jin/DataMining/blob/main/assignment2/wine-reviews-analysis.pdf)
 
 
 ### 说明
