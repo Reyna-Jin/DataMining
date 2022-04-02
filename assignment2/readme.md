@@ -1,6 +1,5 @@
 ## 频繁模式与关联规则挖掘 
 
-3120215523 金玉卿
 
 ### 所选数据集
 
@@ -9,9 +8,9 @@
 
 ### 分析过程报告
 
-[Jupyter notebook 项目文件](https://github.com/liucc1997/DMC/blob/master/assignment2/wine-reviews-analysis.ipynb)
+[Jupyter notebook 项目文件]()
 
-[wine-reviews-analysis.pdf](https://github.com/liucc1997/DMC/blob/master/assignment2/wine-reviews-analysis.pdf)
+[wine-reviews-analysis.pdf]()
 
 
 ### 说明
